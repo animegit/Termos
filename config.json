@@ -1,22 +1,22 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/animegit/animegit/refs/heads/main/README.md",
+  "title": "Termos",
+  "name": "Animesh Manik",
+  "ascii": "termos",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "animegit",
+    "linkedin": "animesh-manik-16715021a"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "ajitanimesh1234@email.com",
+  "ps1_hostname": "termos",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/animegit/termos",
+  "resume_url": "https://drive.google.com/file/d/1lPwZvKRU4WF5RrNHCPS0GsktMwRBKW8H/view?usp=sharing",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/animeshmanik",
+    "patreon": "https://patreon.com/animeshmanik"
   },
-  "colors": {
+  "colors": { 
     "light": {
       "background": "#FBF1C9",
       "foreground": "#3C3836",
